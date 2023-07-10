@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="M2_REPO/org/openjfx/javafx-controls/17/javafx-controls-17.jar" sourcepath="M2_REPO/org/openjfx/javafx-controls/17/javafx-controls-17-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/openjfx/javafx-graphics/17/javafx-graphics-17.jar" sourcepath="M2_REPO/org/openjfx/javafx-graphics/17/javafx-graphics-17-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/openjfx/javafx-graphics/17/javafx-graphics-17-linux.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/openjfx/javafx-base/17/javafx-base-17.jar" sourcepath="M2_REPO/org/openjfx/javafx-base/17/javafx-base-17-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/openjfx/javafx-fxml/17/javafx-fxml-17.jar" sourcepath="M2_REPO/org/openjfx/javafx-fxml/17/javafx-fxml-17-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/openjfx/javafx-swing/17/javafx-swing-17.jar" sourcepath="M2_REPO/org/openjfx/javafx-swing/17/javafx-swing-17-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/earth/worldwind/worldwind/2.2.0/worldwind-2.2.0.jar" sourcepath="M2_REPO/earth/worldwind/worldwind/2.2.0/worldwind-2.2.0-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/gdal/gdal/2.4.0/gdal-2.4.0.jar" sourcepath="M2_REPO/org/gdal/gdal/2.4.0/gdal-2.4.0-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/jogamp/jogl/jogl-all-main/2.3.2/jogl-all-main-2.3.2.jar" sourcepath="M2_REPO/org/jogamp/jogl/jogl-all-main/2.3.2/jogl-all-main-2.3.2-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/jogamp/jogl/jogl-all/2.3.2/jogl-all-2.3.2.jar" sourcepath="M2_REPO/org/jogamp/jogl/jogl-all/2.3.2/jogl-all-2.3.2-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/jogamp/jogl/jogl-all/2.3.2/jogl-all-2.3.2-natives-android-aarch64.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/jogamp/jogl/jogl-all/2.3.2/jogl-all-2.3.2-natives-android-armv6.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/jogamp/jogl/jogl-all/2.3.2/jogl-all-2.3.2-natives-linux-amd64.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/jogamp/jogl/jogl-all/2.3.2/jogl-all-2.3.2-natives-linux-armv6.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/jogamp/jogl/jogl-all/2.3.2/jogl-all-2.3.2-natives-linux-armv6hf.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/jogamp/jogl/jogl-all/2.3.2/jogl-all-2.3.2-natives-linux-i586.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/jogamp/jogl/jogl-all/2.3.2/jogl-all-2.3.2-natives-macosx-universal.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/jogamp/jogl/jogl-all/2.3.2/jogl-all-2.3.2-natives-solaris-amd64.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/jogamp/jogl/jogl-all/2.3.2/jogl-all-2.3.2-natives-solaris-i586.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/jogamp/jogl/jogl-all/2.3.2/jogl-all-2.3.2-natives-windows-amd64.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/jogamp/jogl/jogl-all/2.3.2/jogl-all-2.3.2-natives-windows-i586.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/jogamp/gluegen/gluegen-rt-main/2.3.2/gluegen-rt-main-2.3.2.jar" sourcepath="M2_REPO/org/jogamp/gluegen/gluegen-rt-main/2.3.2/gluegen-rt-main-2.3.2-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/jogamp/gluegen/gluegen-rt/2.3.2/gluegen-rt-2.3.2.jar" sourcepath="M2_REPO/org/jogamp/gluegen/gluegen-rt/2.3.2/gluegen-rt-2.3.2-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/jogamp/gluegen/gluegen-rt/2.3.2/gluegen-rt-2.3.2-natives-android-aarch64.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/jogamp/gluegen/gluegen-rt/2.3.2/gluegen-rt-2.3.2-natives-android-armv6.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/jogamp/gluegen/gluegen-rt/2.3.2/gluegen-rt-2.3.2-natives-linux-amd64.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/jogamp/gluegen/gluegen-rt/2.3.2/gluegen-rt-2.3.2-natives-linux-armv6.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/jogamp/gluegen/gluegen-rt/2.3.2/gluegen-rt-2.3.2-natives-linux-armv6hf.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/jogamp/gluegen/gluegen-rt/2.3.2/gluegen-rt-2.3.2-natives-linux-i586.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/jogamp/gluegen/gluegen-rt/2.3.2/gluegen-rt-2.3.2-natives-macosx-universal.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/jogamp/gluegen/gluegen-rt/2.3.2/gluegen-rt-2.3.2-natives-solaris-amd64.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/jogamp/gluegen/gluegen-rt/2.3.2/gluegen-rt-2.3.2-natives-solaris-i586.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/jogamp/gluegen/gluegen-rt/2.3.2/gluegen-rt-2.3.2-natives-windows-amd64.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/jogamp/gluegen/gluegen-rt/2.3.2/gluegen-rt-2.3.2-natives-windows-i586.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/codehaus/jackson/jackson-core-asl/1.9.13/jackson-core-asl-1.9.13.jar" sourcepath="M2_REPO/org/codehaus/jackson/jackson-core-asl/1.9.13/jackson-core-asl-1.9.13-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/openjfx/javafx-graphics/17/javafx-graphics-17-win.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/openjfx/javafx-graphics/17/javafx-graphics-17-mac.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

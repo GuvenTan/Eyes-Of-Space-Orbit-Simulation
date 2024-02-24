@@ -38,7 +38,7 @@ public class WWSatellite {
 
         
         Vec4 vec2 = new Vec4(1500,1500,1500);
-        satModel = ColladaRoot.createAndParse(getClass().getClassLoader().getResourceAsStream("duck_triangulate.dae"));
+        satModel = ColladaRoot.createAndParse(getClass().getClassLoader().getResourceAsStream("ImageToStl.com_globalstar.dae"));
         satModel.setAltitudeMode(WorldWind.RELATIVE_TO_GROUND);
         colladaController = new ColladaController(satModel);
         satModel.setModelScale(vec2);
